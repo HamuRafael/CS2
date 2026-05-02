@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Flask/SQLite
+instance/
+*.db
+
+# Node/Vue
+node_modules/
+dist/
+
+# Vite
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
